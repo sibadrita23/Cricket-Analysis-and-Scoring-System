@@ -1,0 +1,16 @@
+Cricket-Analysis-Scoring/
+│
+├── data/
+│   └── match_data.csv
+│
+├── src/
+│   ├── data_loader.py
+│   ├── analysis.py
+│   └── scoring.py
+│
+├── tests/
+│   └── test_scoring.py
+│
+├── requirements.txt
+├── README.md
+└── main.py
