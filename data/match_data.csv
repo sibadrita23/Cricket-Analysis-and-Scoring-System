@@ -1,0 +1,4 @@
+match_id, team, player_name, runs, wickets, balls, overs
+1, India, Virat Kohli, 100, 0, 120, 20
+1, Australia, Steve Smith, 85, 0, 115, 20
+...
