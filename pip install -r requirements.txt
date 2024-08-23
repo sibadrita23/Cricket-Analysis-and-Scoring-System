@@ -1,0 +1,3 @@
+
+## Usage
+Run the `main.py` to analyze data and compute live scoring:
